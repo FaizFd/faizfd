@@ -37,5 +37,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizfd&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=faizfd&label=PROFILE+VIEWS)
